@@ -1,0 +1,8 @@
+Palestine/Palestine.txt
+Jordan/jordan.txt
+lebanon/lebanon.txt
+Egypt/Egypt.txt
+Iraq/Iraq.txt
+Kuwait/Kuwait.txt
+Algeria/Algeria.txt
+hebron/hebron.txt
